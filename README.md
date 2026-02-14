@@ -74,9 +74,10 @@ Business-oriented system developed using systems analysis and design principles.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Binimemsh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binimemsh&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Binimemsh&show_icons=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binimemsh&layout=compact&theme=transparent" height="165"/>
 </p>
+
 ---
 
 ## 📫 Contact
